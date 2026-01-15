@@ -4,7 +4,7 @@ A frontend clone of the GentleRain.ai website focusing on smooth animations,
 parallax scrolling, and responsive design.
 
 ## 🔗 Live Demo
-(Add your Netlify / Vercel link here)
+https://gentlerain-ai-clone.vercel.app/
 
 ## 🎥 Screen Recording
 (Add your video link here)
