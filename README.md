@@ -7,7 +7,7 @@ parallax scrolling, and responsive design.
 https://gentlerain-ai-clone.vercel.app/
 
 ## 🎥 Screen Recording
-(Add your video link here)
+https://drive.google.com/file/d/1U3Qngu1L7VoRhxWmGqG7ROM-Asz9DMWU/view?usp=drive_link
 
 ## ✨ Features
 - Sticky navigation
